@@ -17,6 +17,13 @@ public class GitFristDay {
 
 	}
 	
+	public void comId() {
+		System.out.println("56987456");
+	}
+	
+	public void comName() {
+		System.out.println("tcs");
+	}
 	
 
 	
