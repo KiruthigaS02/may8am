@@ -12,9 +12,12 @@ public class GitFristDay {
 		
 	}
 	
-<<<<<<< HEAD
+
 		
-=======
+	public void off() {
+	// TODO Auto-generated method stub
+
+}
 	public void empName() {
 		System.out.println("kiruthiga");
 
